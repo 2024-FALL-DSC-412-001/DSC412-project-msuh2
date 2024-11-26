@@ -1,3 +1,12 @@
+
+# Project Summary
+
+The objective of the final project is to delegate the choice of travel destination to a machine learning model based on publicly available data. 
+Among the global city indices available from multiple resources, 4 different criteria were adopted related to travel decisions, which were safety, cost, pollution, and hygiene. 
+K-means clustering model was selected as an unsupervised approach since there was no definite sets of data to be imported for outputs. 
+The selected K-means clustering model generated 5 clusters. 
+Being the safest, reasonably affordable, and acceptably clean, one of the clusters was identified to be suitable for travel, and it included Madrid, Seoul, Tokyo, and Taipei.
+
 # Getting Started
 
 Make sure your terminal is in this directory. You can confirm that is true by typing `pwd` in terminal.
